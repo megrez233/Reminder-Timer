@@ -3,7 +3,7 @@ import tkinter as tk
 from threading import Thread
 from tkinter import messagebox
 import winsound
-
+#第一个版本更新 v1.1
 
 class ReminderApp:
     def __init__(self, root):
@@ -22,13 +22,13 @@ class ReminderApp:
         time_frame.pack(pady=10)
 
         # Buttons to add time
-        self.hour_button = tk.Button(time_frame, text="Add 1 Hour", command=self.add_hour, width=12)
+        self.hour_button = tk.Button(time_frame, text="+1 Hour", command=self.add_hour, width=12)
         self.hour_button.grid(row=0, column=0, padx=5)
 
-        self.minute_button = tk.Button(time_frame, text="Add 1 Minute", command=self.add_minute, width=12)
+        self.minute_button = tk.Button(time_frame, text="+1 Min", command=self.add_minute, width=12)
         self.minute_button.grid(row=0, column=1, padx=5)
 
-        self.second_button = tk.Button(time_frame, text="Add 1 Second", command=self.add_second, width=12)
+        self.second_button = tk.Button(time_frame, text="+1 Sec", command=self.add_second, width=12)
         self.second_button.grid(row=0, column=2, padx=5)
 
         # Frame to hold start and cancel buttons
@@ -36,11 +36,11 @@ class ReminderApp:
         control_frame.pack(pady=10)
 
         # Start Button
-        self.start_button = tk.Button(control_frame, text="Start Timer", command=self.start_timer, width=12)
+        self.start_button = tk.Button(control_frame, text="Start", command=self.start_timer, width=12)
         self.start_button.grid(row=0, column=0, padx=5)
 
         # Button to cancel timer
-        self.cancel_button = tk.Button(control_frame, text="Cancel Timer", command=self.cancel_timer, width=12)
+        self.cancel_button = tk.Button(control_frame, text="Cancel", command=self.cancel_timer, width=12)
         self.cancel_button.grid(row=0, column=1, padx=5)
 
     def update_time_label(self):
