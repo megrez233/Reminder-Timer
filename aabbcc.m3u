@@ -1,0 +1,174 @@
+#EXTM3U x-tvg-url="https://epg.51zmt.top:8001/e.xml"
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV-1 综合
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2 财经
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3 综艺
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000487
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4 中文国际
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5 体育
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000481
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6 电影
+http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000005
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7 国防军事
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8 电视剧
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000476
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV-9 记录
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000478
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV-10 科教
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000480
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11 戏曲
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000583
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12 社会与法
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000482
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13 新闻
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000602
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14 少儿
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV-15 音乐
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000587
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV-16 奥林匹克
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000625
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-17 农业农村
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000580
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV-5+ 体育赛事
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png",CGTN
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000148
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000039
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000198
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000265
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
+http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000263
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000195
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视·4K
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000633
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000194
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000266
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000575
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000470
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视·4K
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000636
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000445
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视·4K
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000638
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000197
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000588
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
+http://10.255.126.3:8006/AHBKLIVE/00005000000000000000000000000244
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000267
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000619
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000472
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000196
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000577
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000085
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",陕西卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000090
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000069
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000083
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png",山西卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000099
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000065
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png",内蒙古卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000098
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png",甘肃卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000603
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png",宁夏卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000082
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png",青海卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000096
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000060
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png",广西卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000086
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
+http://10.255.126.3:8006/AHBKLIVE/12000000000000000000000000000003
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png",三沙卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000589
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000100
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png",新疆卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000097
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png",兵团卫视
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000462
+#EXTINF:-1 group-title="安徽频道",安徽公共
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000009
+#EXTINF:-1 group-title="安徽频道",安徽经济生活
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000005
+#EXTINF:-1 group-title="安徽频道",安徽影视
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000007
+#EXTINF:-1 group-title="安徽频道",安徽农业·科教
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000013
+#EXTINF:-1 group-title="安徽频道",安徽综艺·体育
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000011
+#EXTINF:-1 group-title="安徽频道",安徽国际
+http://10.255.126.3:8006/AHBKLIVE/11111100000000000000000000000015
+#EXTINF:-1 group-title="安徽频道",滁州新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000081
+#EXTINF:-1 group-title="安徽频道",滁州公共
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000083
+#EXTINF:-1 group-title="安徽频道",滁州科教
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000085
+#EXTINF:-1 group-title="安徽频道",亳州农村
+http://10.255.126.3:8006/AHBKLIVE/11111120210408000000000000000033
+#EXTINF:-1 group-title="安徽频道",蚌埠新闻
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000077
+#EXTINF:-1 group-title="安徽频道",宿州科教
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000097
+#EXTINF:-1 group-title="安徽频道",蚌埠生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000079
+#EXTINF:-1 group-title="安徽频道",宿州新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000099
+#EXTINF:-1 group-title="安徽频道",宿州经济生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000095
+#EXTINF:-1 group-title="安徽频道",安庆新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000111
+#EXTINF:-1 group-title="安徽频道",安庆经济生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000109
+#EXTINF:-1 group-title="安徽频道",淮南新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000105
+#EXTINF:-1 group-title="安徽频道",淮南民生
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000103
+#EXTINF:-1 group-title="安徽频道",淮北新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000119
+#EXTINF:-1 group-title="安徽频道",淮北经济生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000121
+#EXTINF:-1 group-title="安徽频道",六安综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000125
+#EXTINF:-1 group-title="安徽频道",六安社会生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000123
+#EXTINF:-1 group-title="安徽频道",池州新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000089
+#EXTINF:-1 group-title="安徽频道",池州文教生活
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000087
+#EXTINF:-1 group-title="安徽频道",黄山新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000117
+#EXTINF:-1 group-title="安徽频道",黄山文旅
+http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
+#EXTINF:-1 group-title="安徽频道",马鞍山新闻综合
+http://10.255.126.3:8006/AHBKLIVE/11111120211018000000000000000015
+#EXTINF:-1 group-title="安徽频道",马鞍山科教生活
+http://10.255.126.3:8006/AHBKLIVE/11111120211027000000000000000001
+
